@@ -1,5 +1,4 @@
-package de.kayklein;
-
+import de.kayklein.Main;
 import org.junit.Test;
 
 import static de.kayklein.Main.MSG;
