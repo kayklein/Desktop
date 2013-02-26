@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="Java" default="build">
+
+    <target name="build" description="Build classes">
+        <echo>Build classes</echo>
+    </target>
+
+
+    <target name="tests" description="run all tests">
+        <echo>Run all tests</echo>
+    </target>
+
+
+</project>
